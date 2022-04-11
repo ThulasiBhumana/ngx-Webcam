@@ -1,0 +1,12 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+    min-height: 100%;
+    min-width: auto;
+}
+
+.img-capture {
+    display: grid;
+    }
